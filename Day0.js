@@ -1,0 +1,1 @@
+console.log('You are in Day0.js');
